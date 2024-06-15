@@ -1,0 +1,24 @@
+.col {
+    margin: 5px;
+}
+
+#zero {
+    width: 35px;
+    text-align: center;
+}
+
+#equal {
+    width: 75px;
+}
+
+#result {
+
+    background-color: darkgray;
+    overflow: hidden;
+    margin-bottom: 5px;
+    padding-right: -10px;
+}
+
+#description{
+    margin: 40px;
+}
